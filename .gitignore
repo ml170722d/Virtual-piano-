@@ -1,0 +1,12 @@
+.vs/
+Debug/
+pokusaj 2.sln
+sors/
+pokusaj/*
+
+!.gitignore
+!README.md
+!pokusaj/*.cpp
+!pokusaj/*.h
+!pokusaj/*.txt
+!pokusaj/*.csv
